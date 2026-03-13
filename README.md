@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 💻 Languages  
-Java | C | SQL
+Java | Python | C | SQL 
 
 ⚙️ Backend  
 Spring Boot | REST API
