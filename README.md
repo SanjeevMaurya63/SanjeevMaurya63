@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java & Spring Boot based backend projects.<br><br>👯 I’m looking to collaborate on open-source backend and web development projects.<br><br>🤝 I’m looking for help with advanced Spring Boot, Microservices, and system design.<br><br>🌱 I’m currently learning Data Structures & Algorithms and improving backend architecture skills.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, and backend development.<br><br>⚡ Fun fact: I enjoy building scalable backend systems and solving coding problems
+
 
 
 ## 🌐 Socials:
