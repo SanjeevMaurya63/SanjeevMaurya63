@@ -1,19 +1,184 @@
-# 💫 About Me:
-🔭 I’m currently working on Java & Spring Boot based backend projects.<br><br>👯 I’m looking to collaborate on open-source backend and web development projects.<br><br>🤝 I’m looking for help with advanced Spring Boot, Microservices, and system design.<br><br>🌱 I’m currently learning Data Structures & Algorithms and improving backend architecture skills.<br><br>💬 Ask me about Java, Spring Boot, REST APIs, and backend development.<br><br>⚡ Fun fact: I enjoy building scalable backend systems and solving coding problems
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sanjeev+Maurya;Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;Open+to+Software+Engineering+Internships" />
 
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=SanjeevMaurya63&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeevmaurya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeevmaurya600@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SanjeevMaurya63&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SanjeevMaurya63&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevMaurya63&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SanjeevMaurya63&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Final Year B.Tech CSE Student at **Invertis University**
+
+💻 Passionate Java Full Stack Developer
+
+🚀 Building scalable backend applications using Spring Boot
+
+📚 Strong in DSA, OOP, REST APIs & Database Design
+
+🌱 Currently learning
+
+- Microservices
+- Docker
+- AWS
+- System Design
+
+💼 Looking for
+
+- Software Engineer Internship
+- Java Backend Developer Internship
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,docker"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 AI Interview Platform
+
+AI-powered interview platform built using
+
+Spring Boot • React • JWT • MySQL • OpenAI API
+
+- AI Interview Questions
+- Answer Evaluation
+- Authentication
+- Dashboard
+- Interview History
+
+---
+
+## 📄 Resume Analyzer
+
+Spring Boot • React • AI
+
+- Resume Score
+- ATS Analysis
+- Skill Gap Detection
+- AI Suggestions
+
+---
+
+## 🎬 Movie Booking System
+
+Spring Boot • MySQL
+
+- Movie Booking
+- Seat Selection
+- Authentication
+- Admin Panel
+
+---
+
+## 📚 Course Enrollment System
+
+Spring Boot • Spring Security
+
+- Student Dashboard
+- Admin Dashboard
+- Course Management
+- Enrollment
+
+---
+
+## 🌐 Portfolio Website
+
+React.js
+
+Responsive personal portfolio showcasing projects, skills and achievements.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjeevMaurya63&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevMaurya63&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SanjeevMaurya63&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjeevMaurya63&theme=react-dark"/>
+
+---
+
+# 🏆 GitHub Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=SanjeevMaurya63&theme=algolia&row=1"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/SanjeevMaurya63/SanjeevMaurya63/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/SanjeevMaurya63">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://sanjeevmaurya63.github.io">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Quote
+
+> "Consistency beats talent when talent doesn't work hard."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</div>
